@@ -1,3 +1,3 @@
 # KingArthur
-basic design but not responsive
-take this challenge and make it responsive 
+Basic design but not responsive...
+Take this challenge and make it responsive 
